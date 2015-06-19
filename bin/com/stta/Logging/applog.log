@@ -1,0 +1,19 @@
+2015-05-21 16:04:55,507 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-05-21 16:04:55,509 - rootLogger - INFO - Execution started for SuiteOneBase.
+2015-05-21 16:04:55,561 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-05-21 16:04:55,561 - rootLogger - INFO - SuiteOneCaseOne : Execution started.
+2015-05-21 16:04:55,593 - rootLogger - INFO - SuiteOneCaseOne : Reporting test data set line 1 as PASS In excel.
+2015-05-21 16:04:55,599 - rootLogger - INFO - SuiteOneCaseOne : Reporting test data set line 2 as PASS In excel.
+2015-05-21 16:04:55,605 - rootLogger - INFO - SuiteOneCaseOne : Reporting test case as PASS In excel.
+2015-05-21 16:04:55,643 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-05-21 16:04:55,698 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-05-21 16:04:55,714 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-05-21 16:04:55,758 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-05-21 16:04:55,806 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-05-21 16:04:55,807 - rootLogger - INFO - Execution started for SuiteOneBase.
+2015-05-21 16:04:55,823 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-05-21 16:04:55,824 - rootLogger - INFO - SuiteThreeCaseOne : Execution started.
+2015-05-21 16:04:55,826 - rootLogger - INFO - SuiteThreeCaseOne : Reporting test data set line 1 as PASS In excel.
+2015-05-21 16:04:55,829 - rootLogger - INFO - SuiteThreeCaseOne : Reporting test data set line 2 as PASS In excel.
+2015-05-21 16:04:55,832 - rootLogger - INFO - SuiteThreeCaseOne : Reporting test case as PASS In excel.
+2015-05-21 16:04:55,864 - rootLogger - INFO - All Excel Files Initialised successfully.

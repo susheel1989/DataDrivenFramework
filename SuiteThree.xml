@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SuiteThree">
+
+<!-- If add more test cases In this suite, You need to add them as bellow. -->
+
+<test name="SuiteThreeCaseOne">
+    <classes>
+        <class name="com.stta.SuiteThree.SuiteThreeCaseOne" ></class>  
+    </classes>
+</test>
+
+<test name="SuiteThreeCaseTwo">
+    <classes>
+        <class name="com.stta.SuiteThree.SuiteThreeCaseTwo" ></class>  
+    </classes>
+</test>
+
+</suite>
